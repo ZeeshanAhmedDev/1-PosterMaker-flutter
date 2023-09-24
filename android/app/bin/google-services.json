@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023939606506",
+    "project_id": "poster-maker-d2eb9",
+    "storage_bucket": "poster-maker-d2eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023939606506:android:a91adc3cb8a564277ba493",
+        "android_client_info": {
+          "package_name": "com.digitaez.poster_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023939606506-8r6n7ggr0rrhfd5hdr48qmbri51nqhqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKH72Xm3kn43IisMlRF981MNX_i0ObgJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023939606506-8r6n7ggr0rrhfd5hdr48qmbri51nqhqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
